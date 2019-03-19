@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto');
+
+.input{
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    width: 98%;
+    height: 3em;
+    padding: 3px;
+    background-color:#343C3D;     
+    color: #ffffff;
+    font-size: 1.4em;
+   font-family: 'Roboto', sans-serif;
+    
+} 
